@@ -1,0 +1,22 @@
+#header{
+    background: blue;
+    padding: 15px 0px;
+}
+
+#header button{
+    float: right;
+    
+}
+
+#header h3{
+    color: aliceblue;
+}
+
+#footer{
+    background: blue;
+}
+
+#footer h2{
+    text-align: center;
+    color: aliceblue;
+}

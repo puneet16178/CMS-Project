@@ -1,0 +1,74 @@
+h2{
+    color: green;
+    text-align: center;
+
+}
+
+#login{
+    display:flex;
+    align-items: center;
+    height: 650px;;
+}
+
+#login button{
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+}
+
+#login p a{
+    text-decoration: none;
+    
+    color: green;
+}
+
+#login p{
+    margin-top: 10px;
+}
+
+#header{
+    background: blue;
+    padding: 10px 0px;
+}
+
+#header ul{
+    float: right;
+}
+
+#header ul li{
+    display: inline-block;
+}
+
+#header ul li a{
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+
+}
+
+#header h4{
+    color: white;
+}
+
+#footer{
+    background: blue;
+}
+
+#footer h2{
+    color: white;
+    text-align: center;
+}
+
+#profiles{
+    img{
+        width:85px;
+    }
+}
+
+#profiles p{
+    text-align: justify;
+}
+
+#profiles .card{
+    border: none;
+}
